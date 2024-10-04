@@ -1,0 +1,7 @@
+/* reset css */
+* {
+    font-family: cursive;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
